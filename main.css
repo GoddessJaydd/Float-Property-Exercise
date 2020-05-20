@@ -1,0 +1,27 @@
+body * {
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* your styles go here! */ 
+body{ 
+  background-color: rgb(0,0,0);
+  color: rgb(255,255,255);
+  padding: 60px ;
+}
+.neb{
+  float: left;
+  width: 300px;
+  height: 300px;
+  margin: 10px;
+}
+.neb2{
+  float:right;
+  width: 300px;
+  height: 300px;
+   margin: 10px;
+}
